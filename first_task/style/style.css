@@ -1,0 +1,41 @@
+body{
+    background-color: darkkhaki;
+}
+
+
+.first_class{
+    background-color: darkolivegreen;
+    color: darkslategrey;
+    display: inline-block;
+    font-size: 100px;
+    margin-right: 100px; 
+    font-style: oblique;
+}
+.p_class{
+    background-color: dimgrey;
+    color: gold;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    right: 120px;
+    left: 20px;
+    font-style: italic;
+    
+}
+#h_id{
+    margin-left: 25%;
+}
+#a.id{
+    margin-left: 50%;
+}
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h_class{
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+    font-style: italic;
+}

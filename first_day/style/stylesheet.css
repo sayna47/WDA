@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+}
+#this-is-a-unique-identifier{
+    color: #68d0a0;
+    text-decoration: underline;
+}
+p{
+    color : white;
+    border: 1px solid yellow;
+    padding: 20px;
+}
+.these-are-common-identifier{
+    margin-bottom: 20px;
+    font-size: 26px;
+    background-color: orange;
+    display: inline-block;
+}
+#new-section{
+    background-color: orange;
+
+}
+#new-section p{
+    color: cyan;
+}
